@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# editor temp files
+*.sw[po]
+
+# never pin versions
+Pipfile.lock
